@@ -1,0 +1,14 @@
+Project: First and Broadway Civic Center
+Description: Conducted seismic analysis and design for the Schematic Design phase of the project
+Links to web/figures: https://oma.eu/projects/fab-civic-center-park
+Figure file name: 2018_OMA_FAB.jpg
+
+Project: Las Vegas Raiders NFL Stadium
+Description: Lead senior engineer for the design of the reinforced concrete superstructure and steel field tray of the new Las Vegas Raiders NFL Stadium (~65000 seats) in Nevada.
+Links to web/figures:https://www.manicaarchitecture.com/page/allegiant-stadium
+Figure file name: 2018_MANICA_NLVS.jpg
+
+Project: Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)
+Description: Lead on-site structural engineer for the construction administration of the New Mexico City airport (8,000,000 ft2). Managed on-site structural team and acted as the liaison between the structural team in New York and Mexican contractors and master architects. 
+Links to web/figures:http://www.fr-ee.org/project/5/Mexico+New+International+Airport
+Figure file name: 2017_FREE_NAICM.jpg
