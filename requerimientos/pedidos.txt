@@ -12,3 +12,18 @@ Project: Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)
 Description: Lead on-site structural engineer for the construction administration of the New Mexico City airport (8,000,000 ft2). Managed on-site structural team and acted as the liaison between the structural team in New York and Mexican contractors and master architects. 
 Links to web/figures:http://www.fr-ee.org/project/5/Mexico+New+International+Airport
 Figure file name: 2017_FREE_NAICM.jpg
+
+Project: Loma Linda University Medical Center
+Description: Conducted numerical simulations in LS-DYNA to investigate the effects of the vertical acceleration on the seismic performance of a base-isolated health care steel building (650,000 ft2 17-story). Prepared and reviewed structural details for the isolation level.
+Links to web/figures:https://www.ippmech.com/portfolio2/wp-content/uploads/2015/07/action-image.jpeg
+Figure file name: 2016_LLUMC.jpeg
++++++++++++++++++++++++++++++++++++++++++++++++++++
+Project: Beirut New Embassy Campus
+Description: Led and conducted seismic analysis and design for the schematic design, design development and construction document phases of the new US Embassy in Beirut, Lebanon (840,000 ft2). Conducted a progressive collapse analysis.
+Links to web/figures:https://www.morphosis.com/search/265/?s=beiru&m=project
+Figure file name: 2015_MORPHOSIS_BEIRUT
+
+Project: New U.S. Consulate General in Matamoros, Mexico
+Description: Led and conducted seismic analysis and design for the schematic design, the new US Consulate in Matamoros, Mexico (206,000 ft2). 
+Links to web/figures: https://mx.usembassy.gov/the-department-of-state-dedicates-the-new-u-s-consulate-general-in-matamoros-mexico/
+Figure file name: 2014_BAUER_MATAMOROS.jpg
