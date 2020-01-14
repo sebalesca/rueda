@@ -293,6 +293,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  
 }
 .work-item a h3 {
   font-size: 20px;
@@ -393,7 +394,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .fh5co-counters {
-  padding: 1em 0;
+  padding: 0 0 0 0;
   background: #e6e6e6;
   /*background-size: cover;
   background-attachment: fixed;*/
