@@ -93,6 +93,8 @@ figure {
 }
 #fh5co-aside.border {
   border-right: 1px solid #e6e6e6;
+  /*oculta el scroll*/
+  overflow: hidden;
 }
 @media screen and (max-width: 1200px) {
   #fh5co-aside {
