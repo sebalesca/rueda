@@ -1,0 +1,95 @@
+{
+    "home": {
+        "menu": {
+            "item1": "Inicio",
+            "item2": "Portfolio",
+            "item3": "Acerca",
+            "item4": "Contacto"
+        },
+        "intro": {
+            "col1": {
+                "item1": "Llevando la revolución de la automatización a la industria de la construcción.",
+                "item2": "Solicitar acceso anticipado!"
+            },
+            "col2": "¡Bienvenido a Jarvis Design! Estamos desarrollando Jarvis para que tenga acceso a tecnologías avanzadas de la industria aeroespacial en su trabajo como arquitecto, ingeniero o desarrollador.",
+            "col3": "Con Jarvis, puede generar diseños estructurales más rápidos, seguros y económicos, al tiempo que cumple con los últimos códigos de construcción y las mejores prácticas internacionales, todo en tiempo real y en función de sus necesidades."
+        },
+        "features": {
+            "desc": "Caracteristicas",
+            "title1": "TRABAJA EN TIEMPO REAL",
+            "item1": "Desarrollado para mejorar la eficiencia del proceso de diseño conceptual, Jarvis aprovecha los algoritmos aeroespaciales y el aprendizaje automático para el análisis en tiempo real y la entrega de varias soluciones estructurales resistentes a terremotos y vientos.",
+            "title2": "INTELIGENTE Y PRÁCTICO",
+            "item2": "Basado en nuestros 20 años de conocimiento de la industria aplicada y la investigación como ingenieros aeroespaciales, estructurales y sísmicos, Jarvis genera automáticamente modelos estructurales prácticos de acuerdo con su código de construcción, al tiempo que satisface la intención del diseño arquitectónico, la capacidad de construcción y las limitaciones presupuestarias.",
+            "title3": "ROBUSTO",
+            "item3": "Nuestra plataforma basada en la nube le permitirá evaluar diferentes opciones de diseño, dimensionamiento de miembros y comparar cantidades de materiales, costos y huella de carbono. Con Jarvis también puede compartir informes automáticos con su equipo multidisciplinario de ingenieros, arquitectos, desarrolladores y propietarios de edificios. Puedes seguir el progreso de tus proyectos cuando trabajas con varios equipos. Finalmente, dado que está 100% basado en la nube, no necesita invertir en equipos costosos o mantenimiento y siempre tiene acceso instantáneo desde su teléfono inteligente o tableta.",
+            "title4": "ACCESIBLE",
+            "item4": "Como está 100% basado en la nube, no necesita invertir en costosas licencias o equipos. Siempre tiene acceso instantáneo a la última versión desde su escritorio, teléfono inteligente o tableta. ¡Y pagas a medida que avanzas!"
+        },
+        "carrusel":{
+            "person1":{
+                "testimonial":"El propósito de una casa es proporcionar una vida buena y cómoda, y sería un error valorar demasiado un resultado exclusivamente decorativo."           
+            },
+            "person2":{
+                "testimonial":"El ejercicio de la arquitectura es lo más delicioso de la obra. También es junto con la agricultura, lo más necesario para el hombre."           
+            },
+            "person3":{
+                "testimonial":"La arquitectura, a diferencia del arte, no puede existir sin personas"           
+            }
+
+        },
+        "proyectDone": {
+            "desc": "Proyectos realizados con Jarvis",
+            "item1": "Proyecto 1",
+            "desc1": "Descripcion",
+            "item2": "Proyecto 2",
+            "desc2": "Descripcion",
+            "item3": "Proyecto 3",
+            "desc3": "Descripcion"
+        },
+        "counter": {
+            "worked": "CLIENTES QUE NOS ELIGIERON",
+            "completed": "PROYECTOS COMPLETADOS",
+            "total": "ÁREA DE CONSTRUCCIÓN TOTAL (PIES CUADRADOS)"
+        },
+        "pressRelease": {
+            "desc": "Comunicado de prensa",
+            "col1": {
+                "title": "PERICIA",
+                "content": "Muy lejos, detrás de la palabra montañas, lejos de los países Vokalia y Consonantia, viven los textos ciegos. Separados viven en Bookmarksgrove justo en la costa de la Semántica, un gran océano de idiomas. Un pequeño río llamado Duden fluye por su lugar y le proporciona la regelialia necesaria."
+            },
+            "col2": {
+                "title": "EXPLORAR",
+                "content": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática. Big Oxmox le aconsejó que no lo hiciera, porque había miles de malas comas."
+            },
+            "button":"Aprende más"
+        }
+    },
+    "portfolio":{
+        "work1":{
+            "title":"First and Broadway Civic Center",
+            "descr":"Se realizó un análisis y diseño sísmico para la fase de diseño esquemático del proyecto."
+        },
+        "work2":{
+            "title":"Las Vegas Raiders NFL Stadium",
+            "descr":"Ingeniero principal principal para el diseño de la superestructura de hormigón armado y la bandeja de acero del nuevo estadio de Las Vegas Raiders NFL (~ 65000 asientos) en Nevada."
+        },
+        "work3":{
+            "title":"Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)",
+            "descr":"Ingeniero estructural líder en el sitio para la administración de la construcción del aeropuerto de la Ciudad de Nuevo México (8,000,000 pies2). Gestioné el equipo estructural en el sitio y actué como enlace entre el equipo estructural en Nueva York y los contratistas y arquitectos maestros mexicanos."
+        },
+        "work4":{
+            "title":"Loma Linda University Medical Center",
+            "descr":"Se realizaron simulaciones numéricas en LS-DYNA para investigar los efectos de la aceleración vertical en el rendimiento sísmico de un edificio de acero para el cuidado de la salud aislado en una base (650,000 ft2 de 17 pisos). Detalles estructurales preparados y revisados para el nivel de aislamiento."
+        },
+        "work5":{
+            "title":"Beirut New Embassy Campus",
+            "descr":"Lideró y realizó análisis y diseño sísmico para las fases de diseño esquemático, desarrollo de diseño y documentos de construcción de la nueva Embajada de los Estados Unidos en Beirut, Líbano (840,000 pies2). Se realizó un análisis de colapso progresivo."
+        },
+        "work6":{
+            "title":"New U.S. Consulate General in Matamoros, Mexico",
+            "descr":"Lideró y realizó análisis y diseño sísmico para el diseño esquemático, el nuevo Consulado de los Estados Unidos en Matamoros, México (206,000 pies2)."
+        }
+
+
+    }
+}

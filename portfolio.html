@@ -69,10 +69,10 @@
 			<h1 id="fh5co-logo"><a href="index.html"><img src="images/logo.png" width="115" height="115" alt="Verify your Browser" alt="F"></a></h1>
 			<nav id="fh5co-main-menu" role="navigation">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li class="fh5co-active"><a href="portfolio.html">Portfolio</a></li>
-					<li><a href="about.html">About</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a data-localize="home.menu.item1" href="index.html">Home</a></li>
+					<li class="fh5co-active"><a data-localize="home.menu.item2" href="portfolio.html">Portfolio</a></li>
+					<li><a data-localize="home.menu.item3" href="about.html">About</a></li>
+					<li><a data-localize="home.menu.item4" href="contact.html">Contact</a></li>
 				</ul>
 			</nav>
 
@@ -192,9 +192,17 @@
 	<script src="js/jquery.countTo.js"></script>
 	
 	
+	<script src="js/jquery.localize.js"></script>
 	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
+	<script src="js/tools.js"></script>
+	<script>
+		// $('[data-localize]').localize("./languages/mylanguage",{language:"es"});
+		getLanguage();
+		
+	</script>
+		
 
 	</body>
 </html>
