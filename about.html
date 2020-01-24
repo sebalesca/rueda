@@ -76,10 +76,12 @@
 		
 			<nav id="fh5co-main-menu" role="navigation">
 				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="portfolio.html">Portfolio</a></li>
-					<li class="fh5co-active"><a href="about.html">About</a></li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a data-localize="home.menu.item1" href="index.html">Home</a></li>
+					<li><a data-localize="home.menu.item2" href="portfolio.html">Portfolio</a></li>
+					<li class="fh5co-active"><a data-localize="home.menu.item3"vhref="about.html">About</a></li>
+					<li><a data-localize="home.menu.item4" href="contact.html">Contact</a></li>
+					<li> <button id="callConfirm" onclick="return  spanish()">Español</button>
+						<div id="dialog" title="Confirmation Required">Change language</div></li>
 				</ul>
 			</nav>
 
@@ -93,31 +95,17 @@
 		</aside>
 
 		<div id="fh5co-main">
-
-			<!-- <div class="fh5co-narrow-content">
-				
-				<div class="row">
-					<div class="col-md-5">
-						<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft"> <span></span></h2>
-						<p class="fh5co-lead animate-box" data-animate-effect="fadeInLeft">Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-						<p class="animate-box" data-animate-effect="fadeInLeft"> Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-					</div>
-					<div class="col-md-6 col-md-push-1 animate-box" data-animate-effect="fadeInLeft">
-						<img src="images/img_1.jpg" alt="-" class="img-responsive"> 
-					</div>
-				</div>
-				
-			</div> -->
+			
 
 			<div class="fh5co-narrow-content  animate-box" data-animate-effect="fadeInLeft">
-				<h2 class="fh5co-heading" >The Team</span></h2>
+				<h2 data-localize="about.team.desc" class="fh5co-heading" >The Team</span></h2>
 
 				<div class="row">
 					<div class="col-md-4 fh5co-staff">
 						<img src="images/portfolio/martin.jpg" alt="" class="img-responsive">
 						<h3>Martin Diz</h3>
 						<h4>Co-Founder, CEO</h4>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<p data-localize="about.team.member1_desc">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
 						<ul class="fh5co-social">
 							<li><a href="http://www.facebook.com"><img src="./images/img-facebook.png" width="35px" height="15px" alt=""></i> </a></li>
 							  <li><a href="http://www.twitter.com"><img src="./images/img-twitter.png"  width="30px" height="19px" alt=""></a></li>
@@ -130,7 +118,7 @@
 						<img src="images/portfolio/juan.jpg" alt="-" class="img-responsive">
 						<h3>Juan Aleman</h3>
 						<h4>Co-Founder, CSO</h4>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<p data-localize="about.team.member2_desc">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
 						<ul class="fh5co-social">
 							<li><a href="http://www.facebook.com"><img src="./images/img-facebook.png" width="35px" height="15px" alt=""></i> </a></li>
   							<li><a href="http://www.twitter.com"><img src="./images/img-twitter.png"  width="30px" height="19px" alt=""></a></li>
@@ -143,7 +131,7 @@
 						<img src="images/portfolio/joaquin.jpg" alt="" class="img-responsive">
 						<h3>Joaquin Vincent</h3>
 						<h4>Co-Founder, CEO</h4>
-						<p>Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
+						<p data-localize="about.team.member3_desc">Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
 						<ul class="fh5co-social">
 							<li><a href="http://www.facebook.com"><img src="./images/img-facebook.png" width="35px" height="15px" alt=""></i> </a></li>
   							<li><a href="http://www.twitter.com"><img src="./images/img-twitter.png"  width="30px" height="19px" alt=""></a></li>
@@ -157,38 +145,38 @@
 					<!-- seccion proyects we did in the past-->
 				
 				<div class="row">
-					<h2 class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">Projects we did in the past</h2>
+					<h2 data-localize="about.proyectWe.desc" class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">Projects we did in the past</h2>
 				
 					<div class="row animate-box" data-animate-effect="fadeInLeft">
 						<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 							<a href="work.html">							
 								<img src="images/portfolio/puente.png" alt=""   class="img-responsive">							
-								<h3 class="fh5co-work-title">Title</h3>
-								<p>Description</p>
+								<h3 data-localize="about.proyectWe.work1.title" class="fh5co-work-title">Title</h3>
+								<p data-localize="about.proyectWe.work1.descr">Description</p>
 								
 							</a>
 						</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="work.html">							
 							<img src="images/portfolio/2018_OMA_FAB.jpg" alt=""   class="img-responsive">							
-							<h3 class="fh5co-work-title">First and Broadway Civic Center</h3>
-							<p>Conducted seismic analysis and design for the Schematic Design phase of the project</p>
+							<h3 data-localize="about.proyectWe.work2.title"  class="fh5co-work-title">First and Broadway Civic Center</h3>
+							<p data-localize="about.proyectWe.work2.descr" >Conducted seismic analysis and design for the Schematic Design phase of the project</p data-localize="about.proyectWe.work1.title" >
 							
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="work.html">						
 							<img src="images/portfolio/2018_MANICA_NLVS.jpg" alt=""   class="img-responsive ">	
-							<h3 class="fh5co-work-title">Las Vegas Raiders NFL Stadium</h3>
-							<p>Lead senior engineer for the design of the reinforced concrete superstructure and steel field tray of the new Las Vegas Raiders NFL Stadium (~65000 seats) in Nevada.</p>
+							<h3 data-localize="about.proyectWe.work3.title" class="fh5co-work-title">Las Vegas Raiders NFL Stadium</h3>
+							<p data-localize="about.proyectWe.work3.descr" >Lead senior engineer for the design of the reinforced concrete superstructure and steel field tray of the new Las Vegas Raiders NFL Stadium (~65000 seats) in Nevada.</p>
 						
 						</a>
 					</div>
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="work.html">						
 							<img src="images/portfolio/2017_FREE_NAICM.jpg" alt=""   class="img-responsive">					
-							<h3 class="fh5co-work-title">Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)</h3>
-							<p>Lead on-site structural engineer for the construction administration of the New Mexico City airport (8,000,000 ft2). Managed on-site structural team and acted as the liaison between the structural team in New York and Mexican contractors and master architects. </p>
+							<h3 data-localize="about.proyectWe.work4.title"  class="fh5co-work-title">Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)</h3>
+							<p data-localize="about.proyectWe.work4.descr" >Lead on-site structural engineer for the construction administration of the New Mexico City airport (8,000,000 ft2). Managed on-site structural team and acted as the liaison between the structural team in New York and Mexican contractors and master architects. </p>
 								
 						</a>
 					</div>
@@ -196,8 +184,8 @@
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="work.html">						
 							<img src="images/portfolio/2016_LLUMC.jpeg" alt=""   class="img-responsive">
-							<h3 class="fh5co-work-title">Loma Linda University Medical Center</h3>
-							<p>Conducted numerical simulations in LS-DYNA to investigate the effects of the vertical acceleration on the seismic performance of a base-isolated health care steel building (650,000 ft2 17-story). Prepared and reviewed structural details for the isolation level.</p>
+							<h3 data-localize="about.proyectWe.work5.title"  class="fh5co-work-title">Loma Linda University Medical Center</h3>
+							<p data-localize="about.proyectWe.work5.descr" >Conducted numerical simulations in LS-DYNA to investigate the effects of the vertical acceleration on the seismic performance of a base-isolated health care steel building (650,000 ft2 17-story). Prepared and reviewed structural details for the isolation level.</p>
 						</a>
 					</div>
 				
@@ -206,16 +194,16 @@
 						
 						<a href="work.html">						
 							<img src="images/portfolio/2015_MORPHOSIS_BEIRUT.jpg" alt="no image"   class="img-responsive">
-							<h3 class="fh5co-work-title">Beirut New Embassy Campus</h3>
-							<p>Led and conducted seismic analysis and design for the schematic design, design development and construction document phases of the new US Embassy in Beirut, Lebanon (840,000 ft2). Conducted a progressive collapse analysis.</p>
+							<h3 data-localize="about.proyectWe.work6.title"  class="fh5co-work-title">Beirut New Embassy Campus</h3>
+							<p data-localize="about.proyectWe.work6.descr" >Led and conducted seismic analysis and design for the schematic design, design development and construction document phases of the new US Embassy in Beirut, Lebanon (840,000 ft2). Conducted a progressive collapse analysis.</p>
 						</a>
 					</div>
 
 					<div class="col-md-4 col-sm-6 col-xs-6 col-xxs-12 work-item">
 						<a href="work.html">							
 							<img src="images/portfolio/2014_BAUER_MATAMOROS.jpg" alt="no image"   class="img-responsive">
-							<h3 class="fh5co-work-title">New U.S. Consulate General in Matamoros, Mexico</h3>
-							<p>Led and conducted seismic analysis and design for the schematic design, the new US Consulate in Matamoros, Mexico (206,000 ft2). </p>
+							<h3 data-localize="about.proyectWe.work7.title"  class="fh5co-work-title">New U.S. Consulate General in Matamoros, Mexico</h3>
+							<p data-localize="about.proyectWe.work7.descr" >Led and conducted seismic analysis and design for the schematic design, the new US Consulate in Matamoros, Mexico (206,000 ft2). </p>
 							
 						</a>
 					</div>
@@ -224,7 +212,7 @@
 			<!-- FIN seccion proyects we did in the past-->
 			<!-- seccion proyects we work on the past-->
 			
-			<h2 class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">Places we work on the past</h2>
+			<h2 data-localize="about.placesWe.desc" class="fh5co-heading animate-box fadeInLeft animated" data-animate-effect="fadeInLeft">Places we work on the past</h2>
 				
 			<div class="row animate-box" data-animate-effect="fadeInLeft">
 			<!--start the proyect on the work-->
@@ -337,94 +325,13 @@
 	</div>
 	<div class="fh5co-narrow-content">
 		<div class="row">
-			<A  class="btn btn-primary btn-lg btn-block"  HREF="mailto:jobs@jarvisdesign.ai">Join our team!</A>
+			<A  data-localize="about.join" class="btn btn-primary btn-lg btn-block"  HREF="mailto:jobs@jarvisdesign.ai">Join our team!</A>
 		</div>			
 	</div>
 	<!-- FIN seccion proyects we work on the past-->
 			</div>
 		
-			<!-- <div class="fh5co-counters" style="background-image: url(images/fondo.jpg);background-position:center !important;" data-stellar-background-ratio="0.5" id="counter-animate">
 			
-				<div class="fh5co-narrow-content animate-box">
-					<div class="row" >
-						<div class="col-md-4 text-center animate-box">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="67" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Clients Worked With</span>
-						</div>
-						<div class="col-md-4 text-center animate-box">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="130" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Completed Projects</span>
-						</div>
-						<div class="col-md-4 text-center animate-box">
-							<span class="fh5co-counter js-counter" data-from="0" data-to="27232" data-speed="5000" data-refresh-interval="50"></span>
-							<span class="fh5co-counter-label">Total Construction Area  (square feet)</span>
-						</div>
-					</div>
-				</div>
-			</div> -->
-
-		<!-- <div class="fh5co-narrow-content">
-				<h2 class="fh5co-heading animate-box" data-animate-effect="fadeInLeft"> <span>Features</span></h2>
-				<div class="row">
-					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-							<div class="fh5co-icon">
-								<i class="icon-strategy"></i>
-							</div>
-							<div class="fh5co-text">
-								<h3>Works in Real-Time</h3>
-								<p>Developed to improve the efficiency of the concept design process, Jarvis leverages aerospace algorithms and machine learning for real-time analysis and delivering of several earthquake and wind resistant structural solutions.  </p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-							<div class="fh5co-icon">
-								<i class="icon-telescope"></i>
-							</div>
-							<div class="fh5co-text">
-								<h3>Smart and Practical</h3>
-								<p>Built on our 20 years of applied industry and research knowledge as aerospace, structural and seismic engineers, Jarvis automatically generates practical structural models according to your building code, while satisfying the architectural design intent, constructability and budget constraints. </p>
-							</div>
-						</div>
-					</div>
-
-					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-							<div class="fh5co-icon">
-								<i class="icon-circle-compass"></i>
-							</div>
-							<div class="fh5co-text">
-								<h3>Robust</h3>
-								<p>Our cloud-based platform will allow you to evaluate different design options, member sizing and compare material quantities, costs and carbon footprint. With Jarvis you can also share automatic reports with your multidisciplinary team of engineers, architects, developers and building owners. You can track the progress of your projects when working with multiple teams. Finally, since it's 100% cloud-based, you don't need to invest in costly equipment or maintenance and you always have instant access from your smartphone or tablet. </p>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-							<div class="fh5co-icon">
-								<i class="icon-tools-2"></i>
-							</div>
-							<div class="fh5co-text">
-								<h3>Affordable</h3>
-								<p>Since it's 100% cloud-based, you don't need to invest in costly licenses or equipment. You always have instant access to the latest version from your Desktop, smartphone or tablet. And you pay as you go!. </p>
-							</div>
-						</div>
-					<div class="col-md-6">
-						<div class="fh5co-feature animate-box" data-animate-effect="fadeInLeft">
-							<div class="fh5co-icon">
-								<i class="icon-tools-2"></i>
-							</div>
-							<div class="fh5co-text">
-								<h3>Expertise</h3>
-								<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. </p>
-							</div>
-						</div>
-					</div> 
-
-				</div>
-			</div> 
-		 -->
 
 			
 
@@ -450,8 +357,14 @@
 	
 	<!-- MAIN JS -->
 	<script src="js/main.js"></script>
+	<script src="js/tools.js"></script>
+
 	<script>
+		function spanish(){
+		if(confirm('Do you want to change to Spanish?')){
 		$('[data-localize]').localize("./languages/mylanguage",{language:"es"});
+		}
+	}
 	</script>
 		
 

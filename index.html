@@ -65,6 +65,8 @@
 					<li ><a data-localize="home.menu.item2" href="portfolio.html">Portfolio</a></li >
 					<li ><a data-localize="home.menu.item3" href="about.html">About</a></li>
 					<li ><a data-localize="home.menu.item4" href="contact.html">Contact</a></li>
+					<li> <button id="callConfirm" onclick="return  spanish()">Español</button>
+						<div id="dialog" title="Confirmation Required">Change language</div></li>
 				</ul>
 			</nav>
 
@@ -289,8 +291,12 @@
 	<script src="js/tools.js"></script>
 	<script>
 		// $('[data-localize]').localize("./languages/mylanguage",{language:"es"});
-		getLanguage();
-		
+		//getLanguage();
+		function spanish(){
+		if(confirm('Do you want to change to Spanish?')){
+		$('[data-localize]').localize("./languages/mylanguage",{language:"es"});
+		}
+	}
 	</script>
 	
 	

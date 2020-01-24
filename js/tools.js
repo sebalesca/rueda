@@ -26,10 +26,12 @@ function getLanguage() {
         lang= navigator.languages[0].slice(0,2);				
         }
     }
-    if(lang=="es"){
+    if(lang=="en"){
         $('[data-localize]').localize("./languages/mylanguage",{language:"es"});
     }
     
     }
+
+   
    
      
