@@ -1159,3 +1159,37 @@ btn-jarvis {
   color:#FF4B33
 
 }
+.referlistcontainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+#referlistemail {
+  width: 250px;
+  margin-right: 10px;
+  height: 45px;
+  border-radius: 32px;
+  border-color:#FF4B33;
+  font-size: 16px;
+  padding-left: 10px;
+}
+ #referlistbutton {
+  width: 150px;
+  height: 45px;
+  border: none;
+  border-radius: 32px;
+  font-size: 16px;
+  background-color:#FF4B33;
+  color: white;
+} 
+.referlistinnercontainer {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+  padding-bottom: 60px;
+  padding-top: 10px;
+}

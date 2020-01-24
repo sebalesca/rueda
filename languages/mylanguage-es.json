@@ -21,21 +21,20 @@
             "title2": "INTELIGENTE Y PRÁCTICO",
             "item2": "Basado en nuestros 20 años de conocimiento de la industria aplicada y la investigación como ingenieros aeroespaciales, estructurales y sísmicos, Jarvis genera automáticamente modelos estructurales prácticos de acuerdo con su código de construcción, al tiempo que satisface la intención del diseño arquitectónico, la capacidad de construcción y las limitaciones presupuestarias.",
             "title3": "ROBUSTO",
-            "item3": "Nuestra plataforma basada en la nube le permitirá evaluar diferentes opciones de diseño, dimensionamiento de miembros y comparar cantidades de materiales, costos y huella de carbono. Con Jarvis también puede compartir informes automáticos con su equipo multidisciplinario de ingenieros, arquitectos, desarrolladores y propietarios de edificios. Puedes seguir el progreso de tus proyectos cuando trabajas con varios equipos. Finalmente, dado que está 100% basado en la nube, no necesita invertir en equipos costosos o mantenimiento y siempre tiene acceso instantáneo desde su teléfono inteligente o tableta.",
+            "item3": "Nuestra plataforma basada en la nube le permitirá evaluar diferentes opciones de diseño, dimensionamiento de miembros y comparar cantidades de materiales, costos y huella de carbono. Con Jarvis también puede compartir informes automáticos con su equipo multidisciplinario de ingenieros, arquitectos, desarrolladores y propietarios de edificios. Puedes seguir el progreso de tus proyectos cuando trabajas con varios equipos.",
             "title4": "ACCESIBLE",
             "item4": "Como está 100% basado en la nube, no necesita invertir en costosas licencias o equipos. Siempre tiene acceso instantáneo a la última versión desde su escritorio, teléfono inteligente o tableta. ¡Y pagas a medida que avanzas!"
         },
-        "carrusel":{
-            "person1":{
-                "testimonial":"El propósito de una casa es proporcionar una vida buena y cómoda, y sería un error valorar demasiado un resultado exclusivamente decorativo."           
+        "carrusel": {
+            "person1": {
+                "testimonial": "El propósito de una casa es proporcionar una vida buena y cómoda, y sería un error valorar demasiado un resultado exclusivamente decorativo."
             },
-            "person2":{
-                "testimonial":"El ejercicio de la arquitectura es lo más delicioso de la obra. También es junto con la agricultura, lo más necesario para el hombre."           
+            "person2": {
+                "testimonial": "El ejercicio de la arquitectura es lo más delicioso de la obra. También es junto con la agricultura, lo más necesario para el hombre."
             },
-            "person3":{
-                "testimonial":"La arquitectura, a diferencia del arte, no puede existir sin personas"           
+            "person3": {
+                "testimonial": "La arquitectura, a diferencia del arte, no puede existir sin personas"
             }
-
         },
         "proyectDone": {
             "desc": "Proyectos realizados con Jarvis",
@@ -61,78 +60,87 @@
                 "title": "EXPLORAR",
                 "content": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática. Big Oxmox le aconsejó que no lo hiciera, porque había miles de malas comas."
             },
-            "button":"Aprende más"
+            "button": "Aprende más"
         }
     },
-    "portfolio":{
-        "work1":{
-            "title":"First and Broadway Civic Center",
-            "descr":"Se realizó un análisis y diseño sísmico para la fase de diseño esquemático del proyecto."
+    "portfolio": {
+        "work1": {
+            "title": "First and Broadway Civic Center",
+            "descr": "Se realizó un análisis y diseño sísmico para la fase de diseño esquemático del proyecto."
         },
-        "work2":{
-            "title":"Las Vegas Raiders NFL Stadium",
-            "descr":"Ingeniero principal principal para el diseño de la superestructura de hormigón armado y la bandeja de acero del nuevo estadio de Las Vegas Raiders NFL (~ 65000 asientos) en Nevada."
+        "work2": {
+            "title": "Las Vegas Raiders NFL Stadium",
+            "descr": "Ingeniero principal principal para el diseño de la superestructura de hormigón armado y la bandeja de acero del nuevo estadio de Las Vegas Raiders NFL (~ 65000 asientos) en Nevada."
         },
-        "work3":{
-            "title":"Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)",
-            "descr":"Ingeniero estructural líder en el sitio para la administración de la construcción del aeropuerto de la Ciudad de Nuevo México (8,000,000 pies2). Gestioné el equipo estructural en el sitio y actué como enlace entre el equipo estructural en Nueva York y los contratistas y arquitectos maestros mexicanos."
+        "work3": {
+            "title": "Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)",
+            "descr": "Ingeniero estructural líder en el sitio para la administración de la construcción del aeropuerto de la Ciudad de Nuevo México (8,000,000 pies2). Gestioné el equipo estructural en el sitio y actué como enlace entre el equipo estructural en Nueva York y los contratistas y arquitectos maestros mexicanos."
         },
-        "work4":{
-            "title":"Loma Linda University Medical Center",
-            "descr":"Se realizaron simulaciones numéricas en LS-DYNA para investigar los efectos de la aceleración vertical en el rendimiento sísmico de un edificio de acero para el cuidado de la salud aislado en una base (650,000 ft2 de 17 pisos). Detalles estructurales preparados y revisados para el nivel de aislamiento."
+        "work4": {
+            "title": "Loma Linda University Medical Center",
+            "descr": "Se realizaron simulaciones numéricas en LS-DYNA para investigar los efectos de la aceleración vertical en el rendimiento sísmico de un edificio de acero para el cuidado de la salud aislado en una base (650,000 ft2 de 17 pisos). Detalles estructurales preparados y revisados para el nivel de aislamiento."
         },
-        "work5":{
-            "title":"Beirut New Embassy Campus",
-            "descr":"Lideró y realizó análisis y diseño sísmico para las fases de diseño esquemático, desarrollo de diseño y documentos de construcción de la nueva Embajada de los Estados Unidos en Beirut, Líbano (840,000 pies2). Se realizó un análisis de colapso progresivo."
+        "work5": {
+            "title": "Beirut New Embassy Campus",
+            "descr": "Lideró y realizó análisis y diseño sísmico para las fases de diseño esquemático, desarrollo de diseño y documentos de construcción de la nueva Embajada de los Estados Unidos en Beirut, Líbano (840,000 pies2). Se realizó un análisis de colapso progresivo."
         },
-        "work6":{
-            "title":"New U.S. Consulate General in Matamoros, Mexico",
-            "descr":"Lideró y realizó análisis y diseño sísmico para el diseño esquemático, el nuevo Consulado de los Estados Unidos en Matamoros, México (206,000 pies2)."
+        "work6": {
+            "title": "New U.S. Consulate General in Matamoros, Mexico",
+            "descr": "Lideró y realizó análisis y diseño sísmico para el diseño esquemático, el nuevo Consulado de los Estados Unidos en Matamoros, México (206,000 pies2)."
+        },
+        "secondSection":{
+            "title":"¿Tienes un proyecto?",
+            "subtitle":"¡Nuestro equipo está listo para ayudarlo a tener éxito! Solo contáctenos",
+            "button":"Consigue una cotización" , 
+            "col1":"Si prefiere hablar con un humano ¡Nuestro equipo de ingenieros está aquí para ayudarlo! ¡Nuestra plataforma nos permite ofrecer nuestros servicios de consultoría en muy poco tiempo por un precio muy competitivo, solo contáctenos!",
+            "col2":""
         }
-
-
     },
-    "about":{
-        "team":{
-            "desc":"El equipo",
-            "member1_desc":"Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática.",
-            "member2_desc":"Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática.",
-            "member3_desc":"Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática."
+    "about": {
+        "team": {
+            "desc": "El equipo",
+            "member1_desc": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática.",
+            "member2_desc": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática.",
+            "member3_desc": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática."
         },
-        "proyectWe":{
-            "desc":"Proyectos que hicimos en el pasado",
-            "work1":{
-                "title":"Proyecto",
-                "descr":"Descripcion"
+        "proyectWe": {
+            "desc": "Proyectos que hicimos en el pasado",
+            "work1": {
+                "title": "Proyecto",
+                "descr": "Descripcion"
             },
-            "work2":{
-                "title":"First and Broadway Civic Center",
-                "descr":"Se realizó un análisis y diseño sísmico para la fase de diseño esquemático del proyecto."
+            "work2": {
+                "title": "First and Broadway Civic Center",
+                "descr": "Se realizó un análisis y diseño sísmico para la fase de diseño esquemático del proyecto."
             },
-            "work3":{
-                "title":"Las Vegas Raiders NFL Stadium",
-                "descr":"Ingeniero principal principal para el diseño de la superestructura de hormigón armado y la bandeja de acero del nuevo estadio de Las Vegas Raiders NFL (~ 65000 asientos) en Nevada."
+            "work3": {
+                "title": "Las Vegas Raiders NFL Stadium",
+                "descr": "Ingeniero principal principal para el diseño de la superestructura de hormigón armado y la bandeja de acero del nuevo estadio de Las Vegas Raiders NFL (~ 65000 asientos) en Nevada."
             },
-            "work4":{
-                "title":"Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)",
-                "descr":"Ingeniero estructural líder en el sitio para la administración de la construcción del aeropuerto de la Ciudad de Nuevo México (8,000,000 pies2). Gestioné el equipo estructural en el sitio y actué como enlace entre el equipo estructural en Nueva York y los contratistas y arquitectos maestros mexicanos."
+            "work4": {
+                "title": "Nuevo Aeropuerto Internacional de Ciudad de Mexico (NAIMC)",
+                "descr": "Ingeniero estructural líder en el sitio para la administración de la construcción del aeropuerto de la Ciudad de Nuevo México (8,000,000 pies2). Gestioné el equipo estructural en el sitio y actué como enlace entre el equipo estructural en Nueva York y los contratistas y arquitectos maestros mexicanos."
             },
-            "work5":{
-                "title":"Loma Linda University Medical Center",
-                "descr":"Se realizaron simulaciones numéricas en LS-DYNA para investigar los efectos de la aceleración vertical en el rendimiento sísmico de un edificio de acero para el cuidado de la salud aislado en una base (650,000 ft2 de 17 pisos). Detalles estructurales preparados y revisados para el nivel de aislamiento."
+            "work5": {
+                "title": "Loma Linda University Medical Center",
+                "descr": "Se realizaron simulaciones numéricas en LS-DYNA para investigar los efectos de la aceleración vertical en el rendimiento sísmico de un edificio de acero para el cuidado de la salud aislado en una base (650,000 ft2 de 17 pisos). Detalles estructurales preparados y revisados para el nivel de aislamiento."
             },
-            "work6":{
-                "title":"Beirut New Embassy Campus",
-                "descr":"Lideró y realizó análisis y diseño sísmico para las fases de diseño esquemático, desarrollo de diseño y documentos de construcción de la nueva Embajada de los Estados Unidos en Beirut, Líbano (840,000 pies2). Se realizó un análisis de colapso progresivo."
+            "work6": {
+                "title": "Beirut New Embassy Campus",
+                "descr": "Lideró y realizó análisis y diseño sísmico para las fases de diseño esquemático, desarrollo de diseño y documentos de construcción de la nueva Embajada de los Estados Unidos en Beirut, Líbano (840,000 pies2). Se realizó un análisis de colapso progresivo."
             },
-            "work7":{
-                "title":"New U.S. Consulate General in Matamoros, Mexico",
-                "descr":"Lideró y realizó análisis y diseño sísmico para el diseño esquemático, el nuevo Consulado de los Estados Unidos en Matamoros, México (206,000 pies2)."
+            "work7": {
+                "title": "New U.S. Consulate General in Matamoros, Mexico",
+                "descr": "Lideró y realizó análisis y diseño sísmico para el diseño esquemático, el nuevo Consulado de los Estados Unidos en Matamoros, México (206,000 pies2)."
             }
         },
-        "placesWe":{
-            "desc":"Lugares donde trabajamos en el pasado"
+        "placesWe": {
+            "desc": "Lugares donde trabajamos en el pasado"
         },
-        "join":"Unete a nuestro equipo!"
+        "join": "Unete a nuestro equipo!"
+    },
+    "contact": {
+        "getInTouch": "Ponerse en contacto",
+        "button": "Obtenga acceso"
     }
 }
