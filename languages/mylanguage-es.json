@@ -99,9 +99,9 @@
     "about": {
         "team": {
             "desc": "El equipo",
-            "member1_desc": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática.",
-            "member2_desc": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática.",
-            "member3_desc": "Incluso el Todopoderoso Señalador no tiene control sobre los textos ciegos, es una vida casi no ortográfica Un día, sin embargo, una pequeña línea de texto ciego con el nombre de Lorem Ipsum decidió partir hacia el lejano Mundo de la Gramática."
+            "member1_desc": "Martin, lidera el equipo de ingenieros que entregó el primer equipaje inteligente en su inicio anterior. Para su doctorado, desarrolló un nuevo concepto para el control automático de satélites que fue seleccionado por la NASA para ir al espacio.",
+            "member2_desc": "Juan, es miembro del Subcomité Nacional de Albañilería de ASCE. Como parte de su doctorado, desarrolló modelos computacionalmente eficientes respaldados por pruebas experimentales. Como ingeniero profesional contribuyó a más de 200 proyectos.",
+            "member3_desc": "Joaquin, es un ingeniero senior con vasta experiencia en métodos computacionales y simulaciones. Anteriormente trabajó en simulaciones y diseño de satélites."
         },
         "proyectWe": {
             "desc": "Proyectos que hicimos en el pasado",
@@ -140,6 +140,8 @@
         "join": "Unete a nuestro equipo!"
     },
     "contact": {
+        "title":"Llevando la revolución de la automatización a la industria de la construcción.",
+        "subtitle":"LANZAMIENTO ANTICIPADO 2020",
         "getInTouch": "Ponerse en contacto",
         "button": "Obtenga acceso"
     }
