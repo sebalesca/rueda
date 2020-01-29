@@ -27,13 +27,16 @@
         },
         "carrusel": {
             "person1": {
-                "testimonial": "El propósito de una casa es proporcionar una vida buena y cómoda, y sería un error valorar demasiado un resultado exclusivamente decorativo."
+                "testimonial": "&ldquo;El propósito de una casa es proporcionar una vida buena y cómoda, y sería un error valorar demasiado un resultado exclusivamente decorativo.&rdquo;",
+                 "autor":"Lina Bo Bardi"
             },
             "person2": {
-                "testimonial": "El ejercicio de la arquitectura es lo más delicioso de la obra. También es junto con la agricultura, lo más necesario para el hombre."
+                "testimonial": "&ldquo;El ejercicio de la arquitectura es lo más delicioso de la obra. También es junto con la agricultura, lo más necesario para el hombre.&rdquo;",
+                "autor":"Philip Johnson"
             },
             "person3": {
-                "testimonial": "La arquitectura, a diferencia del arte, no puede existir sin personas"
+                "testimonial": "&ldquo;La arquitectura, a diferencia del arte, no puede existir sin personas.&rdquo;",
+                "autor":"Kjetil Trædal Thorsen"
             }
         },
         "proyectDone": {
