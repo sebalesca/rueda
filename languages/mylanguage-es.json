@@ -41,12 +41,12 @@
         },
         "proyectDone": {
             "desc": "Proyectos realizados con Jarvis",
-            "item1": "Proyecto 1",
-            "desc1": "Descripcion",
-            "item2": "Proyecto 2",
-            "desc2": "Descripcion",
-            "item3": "Proyecto 3",
-            "desc3": "Descripcion"
+            "item1": "Casa Patagonica",
+            "desc1": "Pequeña casa de concreto en la Patagonia argentina.",
+            "item2": "Centro de justicia",
+            "desc2": "Una construcción de acero en México.",
+            "item3": "Centro comercial",
+            "desc3": "Una construcción de acero en Panamá."
         },
         "counter": {
             "worked": "CLIENTES QUE NOS ELIGIERON",
